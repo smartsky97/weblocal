@@ -8,6 +8,6 @@ public class TestController {
 
     @RequestMapping
     public String hi() {
-        return "HI,morning!";
+        return "HI,morning!My second commit!";
     }
 }
